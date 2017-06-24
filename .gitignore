@@ -3,6 +3,7 @@ bundle.js
 npm-debug.log
 .DS_Store
 keys.js
+/src/keys.js
 
 # IntelliJ
 *.iml
